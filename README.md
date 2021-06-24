@@ -7,7 +7,7 @@ Install Vim-Plug and do :PlugInstall and :CocInstall <whatever-plugin-u-need>
 
 ## Alacritty Config
 
-Install Dracula.yml file from ![Dracula]("https://draculatheme.com/alacritty") in the same directory as the config
+Install Dracula.yml file from [Dracula]("https://draculatheme.com/alacritty") in the same directory as the config
 
 ## ZSHRC
 
